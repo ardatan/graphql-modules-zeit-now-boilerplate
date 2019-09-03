@@ -2,12 +2,12 @@
   "name": "graphql-modules-zeit-now-boilerplate",
   "version": "0.1.0",
   "dependencies": {
-    "@graphql-modules/core": "^0.7.10",
-    "express-graphql": "^0.9.0",
-    "graphiql": "^0.14.2",
-    "graphql": "^14.5.4",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0",
+    "@graphql-modules/core": "0.7.11",
+    "express-graphql": "0.9.0",
+    "graphiql": "0.14.2",
+    "graphql": "14.5.4",
+    "react": "16.9.0",
+    "react-dom": "16.9.0",
     "react-scripts": "3.1.1"
   },
   "scripts": {
